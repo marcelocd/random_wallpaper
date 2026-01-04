@@ -1,0 +1,15 @@
+[Unit]
+Description=Random Wallpaper Changer
+After=graphical-session.target
+
+[Service]
+Type=simple
+ExecStart=%h/bin/random_wallpaper.sh
+Restart=on-failure
+RestartSec=10
+MemoryMax=200M
+Environment=DISPLAY=:0
+Environment=XDG_RUNTIME_DIR=/run/user/%U
+
+[Install]
+WantedBy=default.target
