@@ -63,7 +63,7 @@ You should already have a directory containing your wallpapers. This directory c
 
    ```
    ● random-wallpaper.service - Random Wallpaper Changer
-        Loaded: loaded (/home/user/.config/systemd/user/random-wallpaper.service; enabled; preset: enabled)
+        Loaded: loaded (/home/.../random-wallpaper.service; enabled; preset: enabled)
         Active: active (running) since Sun 2026-01-04 13:36:34 -03; 4s ago
    ```
 
