@@ -9,6 +9,8 @@ You should already have a directory containing your wallpapers. This directory c
 - 📁 Image files directly
 - 📂 Subdirectories with image files
 
+> 💡 **Tip for car lovers:** Check out [HD Car Wallpapers](https://www.hdcarwallpapers.com/) for high-quality car wallpapers in various resolutions (HD, 4K, 5K, 8K).
+
 ## 🚀 Installation
 
 1. **Clone the repository:**
