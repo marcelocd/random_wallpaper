@@ -59,13 +59,7 @@ You should already have a directory containing your wallpapers. This directory c
    systemctl --user status random-wallpaper.service
    ```
 
-   After running `enable`, you should see a message like:
-
-   ```
-   Created symlink '/home/user/.config/systemd/user/default.target.wants/random-wallpaper.service' → '/home/user/.config/systemd/user/random-wallpaper.service'.
-   ```
-
-   When checking the status, you should see something like:
+   You should see something like:
 
    ```
    ● random-wallpaper.service - Random Wallpaper Changer
